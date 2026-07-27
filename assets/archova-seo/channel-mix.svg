@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 296" width="420" height="296" role="img" aria-label="Sessions by channel: Organic Search 80.6 percent, Direct 13.6 percent, Referral 3.8 percent, Organic Social 0.8 percent">
+  <rect width="420" height="296" fill="#f3e6de"/>
+
+  <text x="32" y="46" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.4" fill="#8a6a5a">SESSIONS BY CHANNEL</text>
+  <text x="32" y="76" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-weight="600" fill="#16161a">96,081</text>
+  <text x="126" y="76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="12" fill="#8a6a5a">Jan 2024 – Apr 2025</text>
+
+  <g font-family="Inter, Helvetica, Arial, sans-serif" font-size="11.5" fill="#16161a">
+    <text x="32" y="122">Organic Search</text>
+    <rect x="32" y="130" width="356" height="9" rx="4.5" fill="#e3cdc0"/>
+    <rect x="32" y="130" width="287" height="9" rx="4.5" fill="#b3492a"/>
+    <text x="388" y="122" text-anchor="end" font-weight="600">80.6%</text>
+
+    <text x="32" y="168">Direct</text>
+    <rect x="32" y="176" width="356" height="9" rx="4.5" fill="#e3cdc0"/>
+    <rect x="32" y="176" width="48" height="9" rx="4.5" fill="#b3492a"/>
+    <text x="388" y="168" text-anchor="end" font-weight="600">13.6%</text>
+
+    <text x="32" y="214">Referral</text>
+    <rect x="32" y="222" width="356" height="9" rx="4.5" fill="#e3cdc0"/>
+    <rect x="32" y="222" width="14" height="9" rx="4.5" fill="#b3492a"/>
+    <text x="388" y="214" text-anchor="end" font-weight="600">3.8%</text>
+
+    <text x="32" y="260">Paid Search</text>
+    <rect x="32" y="268" width="356" height="9" rx="4.5" fill="#e3cdc0"/>
+    <rect x="32" y="268" width="3" height="9" rx="1.5" fill="#8a6a5a"/>
+    <text x="388" y="260" text-anchor="end" font-weight="600" fill="#8a6a5a">8 sessions</text>
+  </g>
+</svg>

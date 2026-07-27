@@ -31,6 +31,7 @@ Ground-up concept designs, built directly in code (not Figma) and prototyped as 
 
 | Project | What it is | Case study |
 |---|---|---|
+| ![](assets/archova-seo/channel-mix.svg) | **ARCHOVA — Organic Growth** — SEO/content case study: 3,395 → 73,702 users after paid search was switched off | [View case study](https://asdanish.github.io/ux-portfolio/projects/archova-seo.html) |
 | ![](assets/jobable/hero.jpg) | **JOBABLE** — job search & application platform, web + mobile | [View case study](https://asdanish.github.io/ux-portfolio/projects/jobable.html) |
 | ![](assets/jones-road-audit/hero.jpg) | **Jones Road UX Audit** — heatmap-based UX audit & redesign exercise | [View case study](https://asdanish.github.io/ux-portfolio/projects/jones-road-audit.html) |
 | ![](assets/archova/hero.jpg) | **ARCHOVA** — architectural visualization studio website | [View case study](https://asdanish.github.io/ux-portfolio/projects/archova.html) |
@@ -40,4 +41,4 @@ Ground-up concept designs, built directly in code (not Figma) and prototyped as 
 
 ---
 
-*Not yet included: hardwareshack.in and an SEO case study for Archova/HardwareShack, pending real analytics/Search Console data. This repo will be updated as more case studies are written up.*
+*Not yet included: hardwareshack.in and its SEO write-up, pending real analytics/Search Console data. This repo will be updated as more case studies are written up.*
