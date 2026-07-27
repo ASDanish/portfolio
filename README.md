@@ -1,4 +1,4 @@
-# UX Portfolio — Abdus Saboor Danish
+# Portfolio — Abdus Saboor Danish
 
 A collection of product design work: end-to-end UX case studies, shipped products, and design exercises.
 
