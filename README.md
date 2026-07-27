@@ -2,6 +2,8 @@
 
 A collection of product design work: end-to-end UX case studies, shipped products, and design exercises.
 
+**→ [View the portfolio](https://asdanish.github.io/ux-portfolio/)** — case studies use a shared stylesheet that GitHub's file viewer won't render, so the live site is the intended way to read them.
+
 > **Note on this repo:** these write-ups were drafted from the design files and running apps themselves (problem framing, process, and outcomes inferred from what's visible in each project). Descriptions should be reviewed and corrected where they don't match what actually happened.
 
 ## Shipped products
@@ -10,15 +12,15 @@ Real products designed and built end-to-end — currently in use or in active de
 
 | Project | What it is | Case study |
 |---|---|---|
-| ![](assets/fifty-by-ashhar/storefront.jpg) | **Fifty By Ashhar** — bespoke leather footwear brand: storefront, admin dashboard, and a live ops/workshop app | [View case study](projects/fifty-by-ashhar.md) |
-| ![](assets/bulava/storefront.jpg) | **Bulava.to** — luxury digital wedding invitation platform, with client site and admin portal | [View case study](projects/bulava.md) |
-| ![](assets/ambur-first/hero.jpg) | **Ambur First** — hyperlocal community app for the town of Ambur | [View case study](projects/ambur-first.md) |
+| ![](assets/fifty-by-ashhar/storefront.jpg) | **Fifty By Ashhar** — bespoke leather footwear brand: storefront, admin dashboard, and a live ops/workshop app | [View case study](https://asdanish.github.io/ux-portfolio/projects/fifty-by-ashhar.html) |
+| ![](assets/bulava/storefront.jpg) | **Bulava.to** — luxury digital wedding invitation platform, with client site and admin portal | [View case study](https://asdanish.github.io/ux-portfolio/projects/bulava.html) |
+| ![](assets/ambur-first/hero.jpg) | **Ambur First** — hyperlocal community app for the town of Ambur | [View case study](https://asdanish.github.io/ux-portfolio/projects/ambur-first.html) |
 | ![](assets/vanzscape/hero.jpg) | **Vanzscape** — architecture &amp; landscape design studio website | [View case study](https://asdanish.github.io/ux-portfolio/projects/vanzscape.html) |
 | ![](assets/mezbaan-foods/hero.jpg) | **Mezbaan** — Turkish-Italian restaurant website | [View case study](https://asdanish.github.io/ux-portfolio/projects/mezbaan-foods.html) |
 
 ## Original iOS app concepts
 
-Ground-up concept designs, built directly in code (not Figma) and prototyped as real iOS screens. See the [live site](https://asdanish.github.io/ux-portfolio/) for the best viewing experience — these pages use a shared stylesheet that GitHub's file viewer won't render.
+Ground-up concept designs, built directly in code (not Figma) and prototyped as real iOS screens.
 
 | Project | What it is | Case study |
 |---|---|---|
@@ -31,12 +33,12 @@ Ground-up concept designs, built directly in code (not Figma) and prototyped as 
 
 | Project | What it is | Case study |
 |---|---|---|
-| ![](assets/jobable/hero.jpg) | **JOBABLE** — job search & application platform, web + mobile | [View case study](projects/jobable.md) |
-| ![](assets/jones-road-audit/hero.jpg) | **Jones Road UX Audit** — heatmap-based UX audit & redesign exercise | [View case study](projects/jones-road-audit.md) |
-| ![](assets/archova/hero.jpg) | **ARCHOVA** — architectural visualization studio website | [View case study](projects/archova.md) |
-| ![](assets/vanscape/hero.jpg) | **Vanscape** — landscaping business website | [View case study](projects/vanscape.md) |
-| ![](assets/zoho-assist-redesign/hero.jpg) | **Zoho Assist Redesign** — remote support dashboard UI exploration | [View case study](projects/zoho-assist-redesign.md) |
-| ![](assets/daily-ui-challenge/hero.jpg) | **Daily UI Challenge** — Day 1–9 UI explorations | [View case study](projects/daily-ui-challenge.md) |
+| ![](assets/jobable/hero.jpg) | **JOBABLE** — job search & application platform, web + mobile | [View case study](https://asdanish.github.io/ux-portfolio/projects/jobable.html) |
+| ![](assets/jones-road-audit/hero.jpg) | **Jones Road UX Audit** — heatmap-based UX audit & redesign exercise | [View case study](https://asdanish.github.io/ux-portfolio/projects/jones-road-audit.html) |
+| ![](assets/archova/hero.jpg) | **ARCHOVA** — architectural visualization studio website | [View case study](https://asdanish.github.io/ux-portfolio/projects/archova.html) |
+| ![](assets/vanscape/hero.jpg) | **Vanscape** — landscaping business website | [View case study](https://asdanish.github.io/ux-portfolio/projects/vanscape.html) |
+| ![](assets/zoho-assist-redesign/hero.jpg) | **Zoho Assist Redesign** — remote support dashboard UI exploration | [View case study](https://asdanish.github.io/ux-portfolio/projects/zoho-assist-redesign.html) |
+| ![](assets/daily-ui-challenge/hero.jpg) | **Daily UI Challenge** — Day 1–9 UI explorations | [View case study](https://asdanish.github.io/ux-portfolio/projects/daily-ui-challenge.html) |
 
 ---
 
