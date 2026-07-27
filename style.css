@@ -238,6 +238,17 @@ a.back:hover { color: var(--accent); gap: 10px; }
   margin-bottom: 12px;
 }
 
+.project h3 {
+  font-family: var(--sans);
+  font-weight: 700;
+  font-size: 0.76rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  margin-top: 28px;
+  margin-bottom: 10px;
+}
+
 .project ul {
   padding-left: 22px;
 }
