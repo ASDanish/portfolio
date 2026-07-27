@@ -13,6 +13,8 @@ Real products designed and built end-to-end — currently in use or in active de
 | ![](assets/fifty-by-ashhar/storefront.jpg) | **Fifty By Ashhar** — bespoke leather footwear brand: storefront, admin dashboard, and a live ops/workshop app | [View case study](projects/fifty-by-ashhar.md) |
 | ![](assets/bulava/storefront.jpg) | **Bulava.to** — luxury digital wedding invitation platform, with client site and admin portal | [View case study](projects/bulava.md) |
 | ![](assets/ambur-first/hero.jpg) | **Ambur First** — hyperlocal community app for the town of Ambur | [View case study](projects/ambur-first.md) |
+| ![](assets/vanzscape/hero.jpg) | **Vanzscape** — architecture &amp; landscape design studio website | [View case study](https://asdanish.github.io/ux-portfolio/projects/vanzscape.html) |
+| ![](assets/mezbaan-foods/hero.jpg) | **Mezbaan** — Turkish-Italian restaurant website | [View case study](https://asdanish.github.io/ux-portfolio/projects/mezbaan-foods.html) |
 
 ## Original iOS app concepts
 
@@ -23,12 +25,12 @@ Ground-up concept designs, built directly in code (not Figma) and prototyped as 
 | ![](assets/railwake/live-tracking.jpg) | **RailWake** — live train tracking with a geo-alarm that wakes you before your stop | [View case study](https://asdanish.github.io/ux-portfolio/projects/railwake.html) |
 | ![](assets/fifty-by-ashhar-app/product-detail.jpg) | **Fifty By Ashhar Mobile** — native iOS shopping app extending the existing luxury footwear brand | [View case study](https://asdanish.github.io/ux-portfolio/projects/fifty-by-ashhar-app.html) |
 | ![](assets/drift/smart-alarm.jpg) | **Drift** — a calm sleep app with a gentle wake-window alarm and soundscape mixer | [View case study](https://asdanish.github.io/ux-portfolio/projects/drift.html) |
+| ![](assets/bulava-app/rsvp-tracking.jpg) | **Bulava Host App** — iOS companion app for running a wedding: guest import, RSVPs, and send | [View case study](https://asdanish.github.io/ux-portfolio/projects/bulava-app.html) |
 
 ## UX case studies & design work
 
 | Project | What it is | Case study |
 |---|---|---|
-| ![](assets/refrest/hero.jpg) | **REFREST** — grocery delivery app; full process from persona to hi-fi UI | [View case study](projects/refrest.md) |
 | ![](assets/jobable/hero.jpg) | **JOBABLE** — job search & application platform, web + mobile | [View case study](projects/jobable.md) |
 | ![](assets/jones-road-audit/hero.jpg) | **Jones Road UX Audit** — heatmap-based UX audit & redesign exercise | [View case study](projects/jones-road-audit.md) |
 | ![](assets/archova/hero.jpg) | **ARCHOVA** — architectural visualization studio website | [View case study](projects/archova.md) |
@@ -38,4 +40,4 @@ Ground-up concept designs, built directly in code (not Figma) and prototyped as 
 
 ---
 
-*Not yet included: hardwareshack.in, and other work in progress. This repo will be updated as more case studies are written up.*
+*Not yet included: hardwareshack.in and an SEO case study for Archova/HardwareShack, pending real analytics/Search Console data. This repo will be updated as more case studies are written up.*
