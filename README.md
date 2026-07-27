@@ -4,8 +4,6 @@ A collection of product design work: end-to-end UX case studies, shipped product
 
 **→ [View the portfolio](https://asdanish.github.io/ux-portfolio/)** — case studies use a shared stylesheet that GitHub's file viewer won't render, so the live site is the intended way to read them.
 
-> **Note on this repo:** these write-ups were drafted from the design files and running apps themselves (problem framing, process, and outcomes inferred from what's visible in each project). Descriptions should be reviewed and corrected where they don't match what actually happened.
-
 ## Shipped products
 
 Real products designed and built end-to-end — currently in use or in active development.
