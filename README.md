@@ -4,6 +4,12 @@ A collection of product design work: end-to-end UX case studies, shipped product
 
 **→ [View the portfolio](https://asdanish.github.io/ux-portfolio/)** — case studies use a shared stylesheet that GitHub's file viewer won't render, so the live site is the intended way to read them.
 
+## SEO & growth
+
+| Project | What it is | Case study |
+|---|---|---|
+| ![](assets/archova-seo/channel-mix.svg) | **ARCHOVA — Organic Growth** — SEO/content case study: 3,395 → 73,702 users after paid search was switched off | [View case study](https://asdanish.github.io/ux-portfolio/projects/archova-seo.html) |
+
 ## Shipped products
 
 Real products designed and built end-to-end — currently in use or in active development.
@@ -31,7 +37,6 @@ Ground-up concept designs, built directly in code (not Figma) and prototyped as 
 
 | Project | What it is | Case study |
 |---|---|---|
-| ![](assets/archova-seo/channel-mix.svg) | **ARCHOVA — Organic Growth** — SEO/content case study: 3,395 → 73,702 users after paid search was switched off | [View case study](https://asdanish.github.io/ux-portfolio/projects/archova-seo.html) |
 | ![](assets/jobable/hero.jpg) | **JOBABLE** — job search & application platform, web + mobile | [View case study](https://asdanish.github.io/ux-portfolio/projects/jobable.html) |
 | ![](assets/jones-road-audit/hero.jpg) | **Jones Road UX Audit** — heatmap-based UX audit & redesign exercise | [View case study](https://asdanish.github.io/ux-portfolio/projects/jones-road-audit.html) |
 | ![](assets/archova/hero.jpg) | **ARCHOVA** — architectural visualization studio website | [View case study](https://asdanish.github.io/ux-portfolio/projects/archova.html) |
